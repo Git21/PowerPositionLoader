@@ -1,5 +1,5 @@
 # PowerPositionLoader
-Load power positions for a cobdate
+Load power positions for a date
 Starts from 23:00 on previous day till 22:00 today.
 The extract schedule interval can be configured from app settings.
 The file path is also setup from the app settings.
