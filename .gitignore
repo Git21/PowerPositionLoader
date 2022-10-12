@@ -3,3 +3,7 @@
 ################################################################################
 
 /PowerPositionLoader/bin/Debug/net6.0
+/PowerPositionLoader/obj
+/.vs
+/PowerPostionLoader.Tests/bin
+/PowerPostionLoader.Tests/obj
